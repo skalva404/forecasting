@@ -1,0 +1,126 @@
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 500
+ Avg Error                    = 2.28%
+ Weighted Avg Error           = 1,140.89%
+ Minimum Error                = 1,140.89%
+ Maximum Error                = 1,140.89%
+ With in Confidence Interval  = 0%
+ Series with > 15% Error      = 0%
+ Series with > 20% Error      = 0%
+ Series with > 25% Error      = 0%
+ Actual Requests Sum          = 18,962%
+ Forecast Requests Sum        = 235,297.95%
+ Overall Avg Error            = 1,140.89%
+
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 500
+ Avg Error                    = 1.32%
+ Weighted Avg Error           = 659.31%
+ Minimum Error                = 659.31%
+ Maximum Error                = 659.31%
+ With in Confidence Interval  = 0%
+ Series with > 15% Error      = 0%
+ Series with > 20% Error      = 0%
+ Series with > 25% Error      = 0%
+ Actual Requests Sum          = 20,094%
+ Forecast Requests Sum        = 152,575.98%
+ Overall Avg Error            = 659.31%
+
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 500
+ Avg Error                    = 0.1%
+ Weighted Avg Error           = 47.55%
+ Minimum Error                = 47.55%
+ Maximum Error                = 47.55%
+ With in Confidence Interval  = 0%
+ Series with > 15% Error      = 0%
+ Series with > 20% Error      = 0%
+ Series with > 25% Error      = 0%
+ Actual Requests Sum          = 19,801%
+ Forecast Requests Sum        = 29,215.55%
+ Overall Avg Error            = 47.55%
+
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 500
+ Avg Error                    = 0.2%
+ Weighted Avg Error           = 98.97%
+ Minimum Error                = 98.97%
+ Maximum Error                = 98.97%
+ With in Confidence Interval  = 0%
+ Series with > 15% Error      = 0%
+ Series with > 20% Error      = 0%
+ Series with > 25% Error      = 0%
+ Actual Requests Sum          = 20,676%
+ Forecast Requests Sum        = 41,139.05%
+ Overall Avg Error            = 98.97%
+
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 500
+ Avg Error                    = 0.37%
+ Weighted Avg Error           = 183.26%
+ Minimum Error                = 183.26%
+ Maximum Error                = 183.26%
+ With in Confidence Interval  = 0%
+ Series with > 15% Error      = 0%
+ Series with > 20% Error      = 0%
+ Series with > 25% Error      = 0%
+ Actual Requests Sum          = 15,277%
+ Forecast Requests Sum        = 43,273.87%
+ Overall Avg Error            = 183.26%
+
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 500
+ Avg Error                    = 2.09%
+ Weighted Avg Error           = 1,045.86%
+ Minimum Error                = 1,045.86%
+ Maximum Error                = 1,045.86%
+ With in Confidence Interval  = 0%
+ Series with > 15% Error      = 0%
+ Series with > 20% Error      = 0%
+ Series with > 25% Error      = 0%
+ Actual Requests Sum          = 12,046%
+ Forecast Requests Sum        = 138,030.65%
+ Overall Avg Error            = 1,045.86%
+
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 500
+ Avg Error                    = 0.71%
+ Weighted Avg Error           = 353.3%
+ Minimum Error                = 353.3%
+ Maximum Error                = 353.3%
+ With in Confidence Interval  = 0%
+ Series with > 15% Error      = 0%
+ Series with > 20% Error      = 0%
+ Series with > 25% Error      = 0%
+ Actual Requests Sum          = 9,496%
+ Forecast Requests Sum        = 43,045.08%
+ Overall Avg Error            = 353.3%
+
+
+
+

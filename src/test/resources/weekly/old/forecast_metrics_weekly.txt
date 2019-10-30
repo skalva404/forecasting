@@ -1,0 +1,195 @@
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 33.92%
+ Weighted Avg Error           = 14.27%
+ Minimum Error                = 0.06%
+ Maximum Error                = 337.65%
+ With in Confidence Interval  = 57%
+ Series with > 15% Error      = 55%
+ Series with > 20% Error      = 44%
+ Series with > 25% Error      = 36%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 34.46%
+ Weighted Avg Error           = 13.9%
+ Minimum Error                = 0.08%
+ Maximum Error                = 265.7%
+ With in Confidence Interval  = 50%
+ Series with > 15% Error      = 63%
+ Series with > 20% Error      = 51%
+ Series with > 25% Error      = 42%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 38.73%
+ Weighted Avg Error           = 14.99%
+ Minimum Error                = 0.02%
+ Maximum Error                = 321.38%
+ With in Confidence Interval  = 48%
+ Series with > 15% Error      = 65%
+ Series with > 20% Error      = 55%
+ Series with > 25% Error      = 48%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 32.67%
+ Weighted Avg Error           = 12.9%
+ Minimum Error                = 0.04%
+ Maximum Error                = 335.66%
+ With in Confidence Interval  = 51%
+ Series with > 15% Error      = 63%
+ Series with > 20% Error      = 52%
+ Series with > 25% Error      = 42%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 31.25%
+ Weighted Avg Error           = 13.79%
+ Minimum Error                = 0.15%
+ Maximum Error                = 330.49%
+ With in Confidence Interval  = 48%
+ Series with > 15% Error      = 64%
+ Series with > 20% Error      = 53%
+ Series with > 25% Error      = 41%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 27.37%
+ Weighted Avg Error           = 17.02%
+ Minimum Error                = 0.06%
+ Maximum Error                = 262.23%
+ With in Confidence Interval  = 49%
+ Series with > 15% Error      = 63%
+ Series with > 20% Error      = 51%
+ Series with > 25% Error      = 41%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 28.38%
+ Weighted Avg Error           = 16.2%
+ Minimum Error                = 0.05%
+ Maximum Error                = 277.34%
+ With in Confidence Interval  = 49%
+ Series with > 15% Error      = 61%
+ Series with > 20% Error      = 51%
+ Series with > 25% Error      = 40%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 31.07%
+ Weighted Avg Error           = 19.6%
+ Minimum Error                = 0.03%
+ Maximum Error                = 331.39%
+ With in Confidence Interval  = 50%
+ Series with > 15% Error      = 66%
+ Series with > 20% Error      = 53%
+ Series with > 25% Error      = 42%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 33.89%
+ Weighted Avg Error           = 26.18%
+ Minimum Error                = 0.1%
+ Maximum Error                = 193.62%
+ With in Confidence Interval  = 35%
+ Series with > 15% Error      = 75%
+ Series with > 20% Error      = 69%
+ Series with > 25% Error      = 61%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 36.2%
+ Weighted Avg Error           = 26.26%
+ Minimum Error                = 0.03%
+ Maximum Error                = 162.44%
+ With in Confidence Interval  = 34%
+ Series with > 15% Error      = 80%
+ Series with > 20% Error      = 73%
+ Series with > 25% Error      = 65%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 37.54%
+ Weighted Avg Error           = 25.24%
+ Minimum Error                = 0.06%
+ Maximum Error                = 526.02%
+ With in Confidence Interval  = 37%
+ Series with > 15% Error      = 78%
+ Series with > 20% Error      = 68%
+ Series with > 25% Error      = 60%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 40.18%
+ Weighted Avg Error           = 25.92%
+ Minimum Error                = 0.1%
+ Maximum Error                = 771.11%
+ With in Confidence Interval  = 32%
+ Series with > 15% Error      = 82%
+ Series with > 20% Error      = 73%
+ Series with > 25% Error      = 64%%
+ Bound Sum      = 35,015.83%
+
+
+
+           Forecast Metrics     
+-----------------------------------------------
+ Time Series Count            = 452
+ Avg Error                    = 40.58%
+ Weighted Avg Error           = 25.75%
+ Minimum Error                = 0.04%
+ Maximum Error                = 275.4%
+ With in Confidence Interval  = 29%
+ Series with > 15% Error      = 84%
+ Series with > 20% Error      = 75%
+ Series with > 25% Error      = 69%%
+ Bound Sum      = 35,015.83%
+
+
+
